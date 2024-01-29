@@ -1,0 +1,717 @@
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\ElectricityBill.dll.config
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\ElectricityBill.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\ElectricityBill.pdb
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\csc.exe
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\csc.exe.config
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\csc.rsp
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\csi.exe
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\csi.exe.config
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\csi.rsp
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.AppContext.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Console.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.Compression.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Net.Http.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Net.Sockets.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.ValueTuple.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.XPath.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\vbc.exe
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\vbc.exe.config
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\vbc.rsp
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\VBCSCompiler.exe
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.CopyComplete
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.pdb
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\BouncyCastle.Crypto.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Options.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Newtonsoft.Json.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Buffers.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Memory.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Numerics.Vectors.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.ValueTuple.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Options.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\Newtonsoft.Json.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Buffers.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Memory.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Numerics.Vectors.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\System.ValueTuple.xml
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\icudtl.dat
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\IronInterop.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\libcef.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\libEGL.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\af.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\am.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ar.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\bg.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\bn.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ca.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\cs.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\da.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\de.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\el.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\es.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\et.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fa.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fi.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fil.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\gu.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\he.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\hi.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\hr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\hu.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\id.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\it.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ja.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\kn.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ko.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\lt.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\lv.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ml.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\mr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ms.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\nb.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\nl.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\pl.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ro.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ru.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sk.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sl.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sv.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sw.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ta.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\te.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\th.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\tr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\uk.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ur.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\vi.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\msvcp140.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\resources.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\ucrtbase.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\icudtl.dat
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\IronInterop.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\libcef.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\libEGL.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\af.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\am.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ar.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\bg.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\bn.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ca.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\cs.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\da.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\de.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\el.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\es.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\et.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fa.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fi.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fil.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\gu.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\he.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\hi.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\hr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\hu.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\id.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\it.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ja.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\kn.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ko.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\lt.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\lv.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ml.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\mr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ms.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\nb.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\nl.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\pl.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ro.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ru.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sk.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sl.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sv.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sw.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ta.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\te.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\th.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\tr.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\uk.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ur.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\vi.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\msvcp140.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\resources.pak
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\ucrtbase.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\91951\source\repos\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\vulkan-1.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\chrome_100_percent.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\chrome_200_percent.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\chrome_elf.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\d3dcompiler_47.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\icudtl.dat
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\IronCefSubprocess.exe
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\IronInterop.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\libcef.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\libEGL.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\libGLESv2.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\af.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\am.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ar.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\bg.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\bn.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ca.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\cs.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\da.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\de.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\el.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\en-GB.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\en-US.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\es-419.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\es.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\et.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fa.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fi.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fil.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\gu.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\he.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\hi.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\hr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\hu.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\id.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\it.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ja.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\kn.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ko.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\lt.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\lv.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ml.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\mr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ms.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\nb.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\nl.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\pl.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\pt-BR.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\pt-PT.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ro.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ru.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sk.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sl.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sv.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sw.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ta.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\te.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\th.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\tr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\uk.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ur.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\vi.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\zh-CN.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\zh-TW.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\msvcp140.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\resources.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\snapshot_blob.bin
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\ucrtbase.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\v8_context_snapshot.bin
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vcruntime140.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vcruntime140_1.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vk_swiftshader.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vulkan-1.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\chrome_100_percent.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\chrome_200_percent.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\chrome_elf.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\d3dcompiler_47.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\icudtl.dat
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\IronCefSubprocess.exe
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\IronInterop.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\libcef.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\libEGL.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\libGLESv2.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\af.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\am.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ar.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\bg.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\bn.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ca.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\cs.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\da.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\de.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\el.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\en-GB.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\en-US.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\es-419.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\es.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\et.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fa.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fi.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fil.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\gu.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\he.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\hi.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\hr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\hu.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\id.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\it.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ja.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\kn.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ko.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\lt.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\lv.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ml.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\mr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ms.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\nb.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\nl.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\pl.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\pt-BR.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\pt-PT.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ro.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ru.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sk.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sl.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sv.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sw.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ta.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\te.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\th.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\tr.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\uk.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ur.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\vi.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\zh-CN.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\zh-TW.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\msvcp140.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\resources.pak
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\snapshot_blob.bin
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\ucrtbase.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\v8_context_snapshot.bin
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\vcruntime140.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\vk_swiftshader.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\vulkan-1.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\ElectricityBill.dll.config
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\ElectricityBill.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\ElectricityBill.pdb
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\csc.exe
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\csc.exe.config
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\csc.rsp
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\csi.exe
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\csi.exe.config
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\csi.rsp
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.AppContext.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Collections.Immutable.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Console.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Globalization.Calendars.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.Compression.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.FileSystem.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Net.Http.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Net.Sockets.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Reflection.Metadata.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.ValueTuple.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.XPath.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\vbc.exe
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\vbc.exe.config
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\vbc.rsp
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\VBCSCompiler.exe
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\roslyn\VBCSCompiler.exe.config
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\BouncyCastle.Crypto.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Options.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Primitives.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Newtonsoft.Json.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Buffers.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Memory.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Numerics.Vectors.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Threading.Tasks.Extensions.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.ValueTuple.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Options.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Primitives.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Newtonsoft.Json.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Buffers.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Memory.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Numerics.Vectors.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.Threading.Tasks.Extensions.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\System.ValueTuple.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.AssemblyReference.cache
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.CoreCompileInputs.cache
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.CopyComplete
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.dll
+D:\Atman\Works\Other Project\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.pdb
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\icudtl.dat
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\IronInterop.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\libcef.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\libEGL.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\af.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\am.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ar.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\bg.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\bn.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ca.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\cs.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\da.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\de.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\el.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\es.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\et.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fa.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fi.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fil.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\fr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\gu.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\he.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\hi.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\hr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\hu.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\id.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\it.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ja.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\kn.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ko.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\lt.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\lv.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ml.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\mr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ms.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\nb.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\nl.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\pl.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ro.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ru.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sk.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sl.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sv.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\sw.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ta.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\te.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\th.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\tr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\uk.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\ur.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\vi.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\msvcp140.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\resources.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\ucrtbase.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\icudtl.dat
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\IronInterop.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\libcef.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\libEGL.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\af.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\am.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ar.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\bg.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\bn.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ca.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\cs.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\da.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\de.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\el.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\es.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\et.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fa.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fi.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fil.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\fr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\gu.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\he.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\hi.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\hr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\hu.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\id.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\it.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ja.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\kn.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ko.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\lt.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\lv.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ml.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\mr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ms.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\nb.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\nl.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\pl.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ro.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ru.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sk.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sl.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sv.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\sw.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ta.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\te.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\th.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\tr.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\uk.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\ur.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\vi.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\msvcp140.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\resources.pak
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\ucrtbase.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\runtimes\win-x86\native\vulkan-1.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\ElectricityBill.dll.config
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\ElectricityBill.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\ElectricityBill.pdb
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\csc.exe
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\csc.exe.config
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\csc.rsp
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\csi.exe
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\csi.exe.config
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\csi.rsp
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.AppContext.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Console.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.Compression.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Net.Http.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Net.Sockets.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.ValueTuple.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.XPath.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\vbc.exe
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\vbc.exe.config
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\vbc.rsp
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\VBCSCompiler.exe
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\BouncyCastle.Crypto.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Options.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Newtonsoft.Json.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Buffers.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Memory.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Numerics.Vectors.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.ValueTuple.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Options.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Newtonsoft.Json.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Buffers.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Memory.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Numerics.Vectors.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\System.ValueTuple.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.AssemblyReference.cache
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.CoreCompileInputs.cache
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.CopyComplete
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.dll
+C:\Users\91951\Downloads\45\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.pdb
