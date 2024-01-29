@@ -1,0 +1,4 @@
+C:\prakash\asp.net\session\session\bin\session.dll
+C:\prakash\asp.net\session\session\bin\session.pdb
+C:\prakash\asp.net\session\session\obj\Debug\session.dll
+C:\prakash\asp.net\session\session\obj\Debug\session.pdb
