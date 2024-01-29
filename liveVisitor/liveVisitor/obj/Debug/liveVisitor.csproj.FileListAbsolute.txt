@@ -1,0 +1,4 @@
+C:\prakash\asp.net\liveVisitor\liveVisitor\bin\liveVisitor.dll
+C:\prakash\asp.net\liveVisitor\liveVisitor\bin\liveVisitor.pdb
+C:\prakash\asp.net\liveVisitor\liveVisitor\obj\Debug\liveVisitor.dll
+C:\prakash\asp.net\liveVisitor\liveVisitor\obj\Debug\liveVisitor.pdb
