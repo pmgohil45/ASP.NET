@@ -1,0 +1,4 @@
+C:\prakash\asp.net\toaster\toaster\bin\toaster.dll
+C:\prakash\asp.net\toaster\toaster\bin\toaster.pdb
+C:\prakash\asp.net\toaster\toaster\obj\Debug\toaster.dll
+C:\prakash\asp.net\toaster\toaster\obj\Debug\toaster.pdb

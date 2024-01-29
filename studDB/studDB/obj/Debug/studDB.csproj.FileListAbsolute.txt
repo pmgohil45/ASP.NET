@@ -1,0 +1,4 @@
+C:\prakash\asp.net\studDB\studDB\bin\studDB.dll
+C:\prakash\asp.net\studDB\studDB\bin\studDB.pdb
+C:\prakash\asp.net\studDB\studDB\obj\Debug\studDB.dll
+C:\prakash\asp.net\studDB\studDB\obj\Debug\studDB.pdb

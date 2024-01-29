@@ -1,0 +1,4 @@
+C:\prakash\asp.net\webService\webService\bin\webService.dll
+C:\prakash\asp.net\webService\webService\bin\webService.pdb
+C:\prakash\asp.net\webService\webService\obj\Debug\webService.dll
+C:\prakash\asp.net\webService\webService\obj\Debug\webService.pdb
